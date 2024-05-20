@@ -2,6 +2,14 @@
 
 A University Activity Management System (UAMS) designed to manage and organize university activities efficiently. This system includes user management, activity management, participant management, attendance tracking, and report generation.
 
+## Installation Guide
+
+The installation package is located in the `UAMS_setup/Debug` directory. Follow these steps to install the system:
+
+1. Navigate to the `UAMS_setup/Debug` directory.
+2. Run the setup executable file.
+3. Follow the on-screen instructions to complete the installation.
+
 ## User Manual
 
 ### Table of Contents
